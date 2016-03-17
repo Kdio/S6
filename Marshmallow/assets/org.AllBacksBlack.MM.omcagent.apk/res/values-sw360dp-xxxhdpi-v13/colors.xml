@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="icon_tint_color">#ffc5c5c5</color>
+    <color name="list_description_text_color">#ffc5c5c5</color>
+    <color name="description_text_color">#ffe5e5e5</color>
+    <color name="tw_expander_tint_color">#ffc5c5c5</color>
+    <color name="content_box_background_color">#ff000000</color>
+    <color name="content_box_text_color">#ffe5e5e5</color>
+    <color name="main_text_color">#ffe5e5e5</color>
+    <color name="list_no_item_text_color">#ffc5c5c5</color>
+</resources>

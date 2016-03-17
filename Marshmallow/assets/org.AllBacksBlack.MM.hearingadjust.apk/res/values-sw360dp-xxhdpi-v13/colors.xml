@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="description_text">#ffe5e5e5</color>
+    <color name="notibar_text">#ffe5e5e5</color>
+    <color name="button_text">#ffe5e5e5</color>
+    <color name="progress_text">#ffe5e5e5</color>
+    <color name="main_text">#ffe5e5e5</color>
+    <color name="sub_text">#ffc5c5c5</color>
+    <color name="sub_app_bar_text">#ffc5c5c5</color>
+    <color name="adatp_sound_enable_disable_text">#ffc5c5c5</color>
+    <color name="circle_enable_color">#ffe5e5e5</color>
+    <color name="circle_disable_color">#ffc5c5c5</color>
+    <color name="notibar_background">#ff000000</color>
+    <color name="progress_off">#ffc5c5c5</color>
+    <color name="progress_on">#ffe5e5e5</color>
+    <color name="sub_tab_background">#ff000000</color>
+</resources>

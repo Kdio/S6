@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sub_app_bar_text_color">#ffe5e5e5</color>
+    <color name="assistant_menu_zoom_title_text_color_normal">#ffe5e5e5</color>
+    <color name="zoom_button_tint_color">#ffa5a5a5</color>
+</resources>

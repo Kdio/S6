@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_main_text_color">#ffe5e5e5</color>
+    <color name="dialog_information_text_color">#ffe5e5e5</color>
+    <color name="dialog_list_divider_color">#ffa5a5a5</color>
+</resources>

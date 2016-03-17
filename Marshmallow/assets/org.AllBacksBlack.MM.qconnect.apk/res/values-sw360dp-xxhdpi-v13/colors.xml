@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_title_secondary_text_color">#ffc5c5c5</color>
+    <color name="theme_thumb_icon_tint_color">#ffe5e5e5</color>
+    <color name="theme_seek_bar_color">#ff000000</color>
+    <color name="theme_action_button_text_color">#ffc5c5c5</color>
+    <color name="theme_card_view_background_color">#ff000000</color>
+    <color name="theme_section_divider_text_color">#b2e5e5e5</color>
+    <color name="theme_clear_button_text_color">#ffe5e5e5</color>
+    <color name="theme_sub_header_text_color">#ffe5e5e5</color>
+    <color name="theme_sub_header_background_color">#ff000000</color>
+    <color name="theme_scan_icon_tint_color">#ffc5c5c5</color>
+    <color name="theme_scan_text_color">#ffc5c5c5</color>
+    <color name="theme_description_text_color">#ffa5a5a5</color>
+</resources>

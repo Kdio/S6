@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="blur_ui_enabled_theme">false</bool>
+    <bool name="full_player_background_image_theme">true</bool>
+    <bool name="full_player_blur_ui_enabled_theme">false</bool>
+</resources>

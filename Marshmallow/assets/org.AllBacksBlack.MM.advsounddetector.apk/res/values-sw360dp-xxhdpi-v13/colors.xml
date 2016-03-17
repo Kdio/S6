@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alert_dialog_text_color">#fff8f8f8</color>
+    <color name="selected_text_color">#ffd8d8d8</color>
+    <color name="main_text_color">#fff8f8f8</color>
+    <color name="sub_text_color">#ffd8d8d8</color>
+    <color name="actionbar_button_text_color">#fff9f9f9</color>
+    <color name="wave_bottom_color">#ff080808</color>
+    <color name="wave_center_color">#33080808</color>
+    <color name="sound_main_text_color">#fff9f9f9</color>
+    <color name="button_text_color">#ff070707</color>
+</resources>

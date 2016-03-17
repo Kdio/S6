@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="point_text_color">#ffe5e5e5</color>
+    <color name="description_text_color">#ffc5c5c5</color>
+    <color name="hyperlink_text_color">#ffa5a5a5</color>
+    <color name="main_text_denial">#ffe5e5e5</color>
+    <color name="bottom_bar_text_color">#ffc5c5c5</color>
+    <color name="bottom_bar_disabled_text_color">#47c5c5c5</color>
+    <color name="ripple_btn_color">#ff656565</color>
+    <color name="status_bar_color">#ff000000</color>
+    <color name="actionbar_color">#ff000000</color>
+    <color name="actionbar_text_color">#ffe5e5e5</color>
+    <color name="homeasup_icon_color">#ffe5e5e5</color>
+    <color name="dialog_description_text_color">#ffe5e5e5</color>
+</resources>

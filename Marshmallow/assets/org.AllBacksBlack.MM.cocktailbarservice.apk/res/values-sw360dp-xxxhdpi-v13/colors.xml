@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="settings_text_desc_color">#ffe5e5e5</color>
+    <color name="settings_primary_text_color">#ffe5e5e5</color>
+    <color name="settings_guide_description_title">#ffe5e5e5</color>
+    <color name="settings_guide_description_summary">#ffc5c5c5</color>
+    <color name="night_clock_settings_text_desc_color">#ffc5c5c5</color>
+    <color name="popup_text_color">#ffe5e5e5</color>
+    <color name="text_selected_color">#ffc5c5c5</color>
+    <color name="edge_handler_setting_shape_color">#ffa5a5a5</color>
+    <color name="sub_app_bar_text_color">#ffe5e5e5</color>
+    <color name="settings_feeds_checkbox_bg_color">#ff000000</color>
+    <color name="settings_sub_header_background">#ff000000</color>
+    <color name="settings_sub_header_title_text">#ffe5e5e5</color>
+    <color name="settings_sub_header_button_text">#ffe5e5e5</color>
+    <color name="view_pager_indicator_selected">#ffc5c5c5</color>
+    <color name="bottom_bar_text_color">#ffc5c5c5</color>
+</resources>

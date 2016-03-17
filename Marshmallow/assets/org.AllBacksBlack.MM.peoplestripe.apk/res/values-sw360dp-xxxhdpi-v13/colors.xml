@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="settings_description_color">#ffc5c5c5</color>
+    <color name="settings_contact_dialog_main_text">#ffe5e5e5</color>
+    <color name="settings_contact_dialog_title_text">#ffe5e5e5</color>
+    <color name="settings_contact_dialog_button_text">#ffc5c5c5</color>
+    <color name="settings_contact_dialog_sub_text">#ffa5a5a5</color>
+    <color name="settings_contact_dialog_selected_text">#ffa5a5a5</color>
+    <color name="settings_app_select_name">#ffe5e5e5</color>
+    <color name="sub_app_bar_text_color">#ffe5e5e5</color>
+    <color name="popup_text_color">#ffc5c5c5</color>
+    <color name="text_selected_color">#ffc5c5c5</color>
+    <color name="edge_handler_setting_shape_color">#ffe5e5e5</color>
+    <color name="theme_app_label_color">#ffa5a5a5</color>
+    <color name="apps_edge_sub_header_bg">#ff000000</color>
+    <color name="apps_edge_sub_header_text_color">#ffe5e5e5</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tw_status_bar_color">#ff000000</color>
+    <color name="tw_text_color_title_material_toolbar">#ffe5e5e5</color>
+    <color name="tw_text_color_menu_material_toolbar">#ffe5e5e5</color>
+    <color name="color_text_list">#ffe5e5e5</color>
+    <color name="color_text_list_2nd">#ffc5c5c5</color>
+    <color name="tw_subheader_bg_color_light">#ff000000</color>
+    <color name="tw_subheader_text_color_mtrl">#ffc5c5c5</color>
+    <color name="tw_switch_on_mtrl">#ffe5e5e5</color>
+    <color name="tw_switch_track_on_mtrl">#ff626262</color>
+    <color name="tw_switch_off_mtrl">#ff858585</color>
+    <color name="tw_switch_track_off_mtrl">#ff626262</color>
+    <color name="tw_check_on">#ffa5a5a5</color>
+    <color name="tw_check_off">#ff858585</color>
+    <color name="account_help_tint_color">#ffbebebe</color>
+    <color name="tw_loading_progress_color1">#ff808080</color>
+    <color name="tw_loading_progress_color2">#ffb5b5b5</color>
+    <color name="tw_dialog_window_background_color_material_light">#ff575757</color>
+    <color name="tw_dialog_title_text_color_material_light">#fff8f8f8</color>
+    <color name="tw_dialog_body_text_color_material_light">#fff8f8f8</color>
+    <color name="tw_screen_background_color_light">#ff000000</color>
+    <color name="tw_list_divider_mtrl_color">#2ec5c5c5</color>
+</resources>

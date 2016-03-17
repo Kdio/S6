@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="device_detail_dec">#ffc5c5c5</color>
+    <color name="black_spinner">#ffe5e5e5</color>
+    <color name="enabled_backupnow_restore_now">#ffc5c5c5</color>
+    <color name="backupnow_restorenow_ripple">#ff666666</color>
+    <color name="item_selected">#ffc5c5c5</color>
+    <color name="white">#ff000000</color>
+    <color name="item_selected_dropdown">#ffa5a5a5</color>
+    <color name="black">#ffc5c5c5</color>
+    <color name="device_detail_dec_secondary">#99c5c5c5</color>
+    <color name="black_3g_dialog_message">#ffe5e5e5</color>
+    <color name="black_3g_dialog_checkbox">#ffe5e5e5</color>
+</resources>

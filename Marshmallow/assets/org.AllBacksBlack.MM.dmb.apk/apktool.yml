@@ -1,0 +1,14 @@
+version: 2.0.3
+apkFileName: org.AllBacksBlack.MM.dmb.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '33'
+  versionName: '3.0'
+sharedLibrary: false
+doNotCompress:
+- arsc

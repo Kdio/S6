@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tw_list_icon_create_mtrl_color">#ffe5e5e5</color>
+    <color name="tw_list_icon_cicle_mtrl_color">#ff000000</color>
+</resources>

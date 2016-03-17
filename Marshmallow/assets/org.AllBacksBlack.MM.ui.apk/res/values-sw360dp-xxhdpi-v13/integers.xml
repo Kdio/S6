@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="open_theme_photo_id_masking_value">2</integer>
+</resources>

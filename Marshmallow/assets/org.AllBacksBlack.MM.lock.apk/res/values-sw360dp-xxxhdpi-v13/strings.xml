@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_clockfont_effect_type">True,13,20,100|False|False|False</string>
+</resources>

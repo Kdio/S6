@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_list_item_config_normal_color">#ffe5e5e5</color>
+    <color name="check_on">#ffa5a5a5</color>
+    <color name="check_off">#cca5a5a5</color>
+</resources>

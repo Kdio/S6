@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="settings_gridview_text_color">#fff8f8f8</color>
+    <color name="settings_indicator_rectangle_focused_color">#ffb5b5b5</color>
+    <color name="booked_apps_guide_text_color">#fff8f8f8</color>
+</resources>

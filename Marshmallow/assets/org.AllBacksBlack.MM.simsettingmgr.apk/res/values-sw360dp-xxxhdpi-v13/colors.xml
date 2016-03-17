@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="msg_popup_subtext_color">#ffc5c5c5</color>
+    <color name="bottom_bar_button_text_color">#ffc5c5c5</color>
+    <color name="alert_dialog_text_color">#ffe5e5e5</color>
+    <color name="sub_app_bar_text_color">#ffe5e5e5</color>
+</resources>

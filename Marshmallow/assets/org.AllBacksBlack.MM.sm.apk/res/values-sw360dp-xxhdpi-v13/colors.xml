@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dashboard_background_color">#ff000000</color>
+    <color name="dashboard_btn_bg_color">#ffa5a5a5</color>
+    <color name="button_text_color">#ffe5e5e5</color>
+    <color name="feature_header_color">#ffc5c5c5</color>
+    <color name="power_saving_time_color">#ffc5c5c5</color>
+    <color name="storage_sdk_name_text_color">#ffc5c5c5</color>
+    <color name="primary_text_color">#ffe5e5e5</color>
+    <color name="winset_description_text_color">#ffc5c5c5</color>
+    <color name="section_divider_bg_color">#ff000000</color>
+    <color name="list_item_secondary_text_color">#ffc5c5c5</color>
+    <color name="bottom_bar_text_color">#ffc5c5c5</color>
+    <color name="sub_app_bar_text_color">#ffe5e5e5</color>
+    <color name="no_files_text_color">#ffc5c5c5</color>
+    <color name="winset_dialog_title_text_color">#ffe5e5e5</color>
+    <color name="weblink_color">#ffa5a5a5</color>
+    <color name="winset_dialog_text_color">#ffe5e5e5</color>
+    <color name="action_button_color">#ffe5e5e5</color>
+    <color name="actionbar_title_text_color">#ffe5e5e5</color>
+    <color name="user_file_icon_background">#ff000000</color>
+    <color name="headup_stacked_button_text_color">#ffa5a5a5</color>
+    <color name="winset_subheader_terms_and_conditions">#ffa5a5a5</color>
+    <color name="bottom_bar_text_disabled_color">#47c5c5c5</color>
+    <color name="highlight_text_color">#ffe5e5e5</color>
+    <color name="security_upsell_link_text_color">#ffe5e5e5</color>
+    <color name="security_powerd_by_vendor_text_color">#ffa5a5a5</color>
+    <color name="list_item_checkbox_color_on">#ffa5a5a5</color>
+    <color name="list_item_checkbox_color_off">#cca5a5a5</color>
+    <color name="dashboard_btn_text_color_chn">#ffe5e5e5</color>
+</resources>

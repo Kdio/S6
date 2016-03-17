@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="listview_title_highlight">#ffe5e5e5</color>
+    <color name="list_playstate">#ff000000</color>
+    <color name="progress">#ff858585</color>
+    <color name="toolbar_time">#ffa5a5a5</color>
+    <color name="inactive_section">#ff000000</color>
+    <color name="option_icon">#ffe5e5e5</color>
+    <color name="icon_text_color">#ffe5e5e5</color>
+    <color name="controlbar_background">#ff000000</color>
+    <color name="mic_icon">#ffc5c5c5</color>
+    <color name="rejectcall">#ffc5c5c5</color>
+    <color name="actionbar_text_color">#ffc5c5c5</color>
+    <color name="more_text">#ffa5a5a5</color>
+    <color name="mms_button_text">#ffe5e5e5</color>
+    <color name="recording_time">#ffc5c5c5</color>
+    <color name="voice_note_quick_panel_text_top">#ffe5e5e5</color>
+    <color name="voice_note_quick_panel_bg">#ff000000</color>
+    <color name="voice_note_quick_panel_control_button">#ff000000</color>
+    <color name="ticon">#ffc5c5c5</color>
+</resources>

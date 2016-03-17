@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ActionBar">#ff000000</color>
+    <color name="SelectAll">#ffe5e5e5</color>
+    <color name="ActionBarMenu">#ffe5e5e5</color>
+    <color name="ActionBarHomeAsUpIndicator">@null</color>
+    <color name="ActionBarCheckBoxTint_on">#ffe5e5e5</color>
+    <color name="ActionBarCheckBoxTint_off">#ffe5e5e5</color>
+    <color name="StatusBar">#ff000000</color>
+    <color name="ButtonBarButton">#ff000000</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="export_setting_text_color">#ffe5e5e5</color>
+    <color name="export_setting_edittext1_color">#ff000000</color>
+    <color name="export_setting_text2_color">#99c5c5c5</color>
+    <color name="black">#ffe5e5e5</color>
+    <color name="dialog_spinner_dropdown_textColor">#ffc5c5c5</color>
+    <color name="progress_popup_textview_color">#ffe5e5e5</color>
+    <color name="progress_popup_textcolor">#ffe5e5e5</color>
+    <color name="lite_videoeditor_full_dialog_text">#ffe5e5e5</color>
+    <color name="bgm_lis_text_color">#ffe5e5e5</color>
+    <color name="transparent_plus">#ffa5a5a5</color>
+</resources>

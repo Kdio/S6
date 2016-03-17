@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_content_textcolor">#ffe5e5e5</color>
+    <color name="dialog_progress_textcolor">#ffc5c5c5</color>
+    <color name="dialog_sub_content_textcolor">#ffc5c5c5</color>
+    <color name="dialog_description_title_textcolor">#ffe5e5e5</color>
+    <color name="dialog_description_textcolor">#ffe5e5e5</color>
+    <color name="fullscreen_content_textcolor">#ffe5e5e5</color>
+    <color name="checkbox_textcolor">#ffe5e5e5</color>
+    <color name="fullscreen_description_title_textcolor">#ffe5e5e5</color>
+    <color name="fullscreen_description_textcolor">#ffc5c5c5</color>
+    <color name="bottombar_button_textcolor">#ffc5c5c5</color>
+</resources>

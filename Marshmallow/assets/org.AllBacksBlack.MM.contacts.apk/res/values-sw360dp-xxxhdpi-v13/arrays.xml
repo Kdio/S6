@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="letter_tile_colors">
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+        <item>#ff000000</item>
+    </array>
+</resources>

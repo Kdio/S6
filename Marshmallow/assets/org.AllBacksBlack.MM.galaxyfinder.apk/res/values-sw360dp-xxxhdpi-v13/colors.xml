@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#ff000000</color>
+    <color name="color_primary_dark">#ffe5e5e5</color>
+    <color name="action_bar_bg_color">#ff000000</color>
+    <color name="action_bar_option_text_color">#ffc5c5c5</color>
+    <color name="action_bar_text_color">#ffe5e5e5</color>
+    <color name="action_bar_back_icon_tint_color">#ffe5e5e5</color>
+    <color name="filter_panel_button_title_text_color">#ffe5e5e5</color>
+    <color name="filter_item_text_color_default">#ffe5e5e5</color>
+    <color name="ripple_drawable_filter_panel_button_icon_bg">#ff000000</color>
+    <color name="filter_panel_button_icon_bg_selected_tint_color">#ff000000</color>
+    <color name="filter_panel_button_icon_bg_default_tint_color">#99000000</color>
+    <color name="filter_panel_button_icon_bg_focused_tint_color">#ff000000</color>
+    <color name="filter_item_stroke_color">#ff000000</color>
+    <color name="filter_group_title_text_color">#b2e5e5e5</color>
+    <color name="filter_badge_shape_color">#ff000000</color>
+    <color name="filter_item_text_color_focused">#ffe5e5e5</color>
+    <color name="filter_item_shape_color_disabled">#66e5e5e5</color>
+    <color name="filter_item_text_color_disabled">#cce5e5e5</color>
+    <color name="filter_panel_detail_item_text_selected_color">#ffe5e5e5</color>
+    <color name="root_scrollview_background">#ff000000</color>
+    <color name="category_list_text">#ffe5e5e5</color>
+    <color name="no_result_found">#ffe5e5e5</color>
+    <color name="permission_card_view_body_text_color">#ffe5e5e5</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="open_folder_title_color">#ffe5e5e5</color>
+    <color name="open_folder_text_color">#ffe5e5e5</color>
+    <color name="material_blue_grey_900">#ff6a6a6a</color>
+    <color name="close_folder_color1">#ff000000</color>
+    <color name="close_folder_color2">#ff000000</color>
+    <color name="close_folder_color3">#ff000000</color>
+    <color name="close_folder_color4">#ff000000</color>
+    <color name="close_folder_color5">#ff000000</color>
+    <color name="folder_popup_bg_color">#ff000000</color>
+    <color name="home_title_color">#ffe5e5e5</color>
+</resources>

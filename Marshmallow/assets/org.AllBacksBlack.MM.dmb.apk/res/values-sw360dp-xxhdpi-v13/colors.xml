@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_tab_button_bgcolor">#ff000000</color>
+    <color name="tab_unselected_text_color">#cce5e5e5</color>
+    <color name="tab_selected_text_color">#ffe5e5e5</color>
+    <color name="dmb_tab_selected_color">#ffe5e5e5</color>
+    <color name="change_fullscreen_back_icon_tint_color">#cce5e5e5</color>
+    <color name="search_channel_text_color">#ffe5e5e5</color>
+    <color name="unfocus_list_item_text">#ffc5c5c5</color>
+    <color name="focus_list_item_text">#ffe5e5e5</color>
+    <color name="channel_type_icon_tint_color">#ffe5e5e5</color>
+    <color name="play_icon_tint_color">#ffe5e5e5</color>
+    <color name="content_list_play_icon_tint_color">#ffe5e5e5</color>
+    <color name="actionbar_checkbox_on_enabled">#ffc5c5c5</color>
+    <color name="actionbar_checkbox_off_enabled">#ffc5c5c5</color>
+    <color name="select_all_text_color">#ffc5c5c5</color>
+    <color name="sub_app_bar_button_text_color">#ffc5c5c5</color>
+    <color name="selected_info_text_color">#ffe5e5e5</color>
+    <color name="content_list_checkbox_off_enabled">#ffc5c5c5</color>
+    <color name="content_list_checkbox_on_enabled">#ffc5c5c5</color>
+</resources>

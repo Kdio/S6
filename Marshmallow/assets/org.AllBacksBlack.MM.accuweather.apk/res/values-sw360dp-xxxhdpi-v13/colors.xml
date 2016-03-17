@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="col_def_bg_color">#00000000</color>
+    <color name="col_00A5C4">#ff808080</color>
+    <color name="col_def_widget_current_location_icon_color">#fff8f8f8</color>
+    <color name="secondary_text_color_light">#ffd8d8d8</color>
+    <color name="col_def_actionbar_tint_color">#fff9f9f9</color>
+    <color name="col_def_sub_appbar_text_color">#ffffffff</color>
+    <color name="weather_color_primary_dark">#ffb5b5b5</color>
+    <color name="tw_dialog_body_text_color_material_light">#fff8f8f8</color>
+    <color name="col_def_citylist_reorder_color">#ffbebebe</color>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_primary">#ff808080</color>
+    <color name="theme_primary_dark">#ffb5b5b5</color>
+    <color name="theme_action_bar_background_color">#ff808080</color>
+    <color name="open_theme_actionbar_tint_color">#fff9f9f9</color>
+    <color name="contact_list_text_color">#fff8f8f8</color>
+    <color name="status_bar">#ff080808</color>
+    <color name="open_theme_winset_spinner_background_color">#ff575757</color>
+    <color name="open_theme_winset_spinner_text_color">#ffcdcdcd</color>
+    <color name="open_theme_account_dialog_account_name_text_color">#fff8f8f8</color>
+    <color name="open_theme_account_dialog_account_address_text_color">#ffd8d8d8</color>
+    <color name="contact_list_subtitle_text">#ffcdcdcd</color>
+    <color name="contact_list_subtitle_background">#ff404040</color>
+    <color name="open_theme_thumnail_bg_tint_color_01">#ff080808</color>
+    <color name="open_theme_thumnail_bg_tint_color_02">#ff6d6d6d</color>
+    <color name="open_theme_thumnail_bg_tint_color_03">#ff353535</color>
+    <color name="open_theme_thumnail_bg_tint_color_04">#ffa4a4a4</color>
+    <color name="delete_recipient_button_tint_color">#ffbebebe</color>
+    <color name="open_them_toggle_button_text_color">#ff070707</color>
+    <color name="contact_list_name_color">#fff8f8f8</color>
+    <color name="contact_list_address_color">#ffd8d8d8</color>
+    <color name="open_theme_picker_spinner_icon_tint_color">#fff9f9f9</color>
+    <color name="selected_recipient_number_text_color">#fff9f9f9</color>
+    <color name="open_theme_picker_spinner_title_text_color">#fff9f9f9</color>
+    <color name="open_theme_no_results_found_text_color">#ffd8d8d8</color>
+</resources>

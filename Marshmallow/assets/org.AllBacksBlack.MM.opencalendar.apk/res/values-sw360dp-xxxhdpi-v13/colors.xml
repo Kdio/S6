@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ff000000</color>
+    <color name="primary_dark">#ffe5e5e5</color>
+    <color name="color_control_activated">#ffe5e5e5</color>
+    <color name="common_actionbar_background_color">#ff000000</color>
+    <color name="common_actionbar_menu_text_color">#ffe5e5e5</color>
+    <color name="common_actionbar_back_icon_tint_color">#ffe5e5e5</color>
+    <color name="common_actionbar_activity_title_text_color">#ffe5e5e5</color>
+    <color name="common_list_main_text_color">#ffe5e5e5</color>
+    <color name="common_list_sub_text_color">#ffc5c5c5</color>
+    <color name="common_search_view_background_color">#ff000000</color>
+    <color name="common_no_item_text_color">#ffe5e5e5</color>
+    <color name="common_button_text_color">#ffe5e5e5</color>
+    <color name="common_subscribe_button_color">#ffe5e5e5</color>
+    <color name="common_actionbar_tab_unselected_text_color">#cce5e5e5</color>
+    <color name="common_actionbar_tab_selected_text_color">#ffe5e5e5</color>
+    <color name="subscribed_calendar_event_list_description_color">#ffc5c5c5</color>
+    <color name="common_icon_button_background_tint_color">#ff000000</color>
+    <color name="common_empty_text_color">#ffa5a5a5</color>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="history_normal">#ffc5c5c5</color>
+    <color name="calc_edit_bg">#ff000000</color>
+    <color name="number">#ffe5e5e5</color>
+    <color name="real_time_result">#99e5e5e5</color>
+    <color name="symbols">#ffc5c5c5</color>
+    <color name="calc_keypad_number_bg">#ff000000</color>
+    <color name="calc_keypad_symbol_bg">#ff000000</color>
+    <color name="keypad_divider">#4da5a5a5</color>
+    <color name="keypad_divider_land_center">#4da5a5a5</color>
+    <color name="keypad_top_divider">#4da5a5a5</color>
+    <color name="calc_keypad_func_bg">#ff000000</color>
+    <color name="keypad_number">#ffe5e5e5</color>
+    <color name="keypad_symbol">#ffc5c5c5</color>
+    <color name="keypad_equal">#ffe5e5e5</color>
+    <color name="keypad_equal_bg">#ff000000</color>
+    <color name="keypad_func">#ffc5c5c5</color>
+    <color name="result">#ffe5e5e5</color>
+    <color name="history_result">#ffe5e5e5</color>
+    <color name="history_btn_clear">#ffc5c5c5</color>
+    <color name="ripple_effect">#1fe5e5e5</color>
+    <color name="one_handed_arrow">#ffe5e5e5</color>
+    <color name="history_list_bg">#bb303030</color>
+</resources>

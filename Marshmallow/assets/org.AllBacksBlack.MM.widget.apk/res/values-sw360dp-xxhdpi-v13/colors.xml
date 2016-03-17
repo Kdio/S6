@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="open_theme_widget_configure_main_text_color">#fff8f8f8</color>
+    <color name="open_theme_widget_configure_sub_text_color">#ffd8d8d8</color>
+    <color name="open_theme_primary_dark">#ffcdcdcd</color>
+    <color name="open_theme_widget_header_bg_color">#ff808080</color>
+    <color name="open_theme_widget_configure_header_text_color">#fff9f9f9</color>
+    <color name="status_bar">#ff080808</color>
+</resources>

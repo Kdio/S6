@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="theme_use_pattern_normal_image">true</bool>
+    <bool name="theme_use_pattern_line_color">true</bool>
+    <bool name="theme_use_image_pinlock">false</bool>
+</resources>
