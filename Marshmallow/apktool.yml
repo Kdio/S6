@@ -10,6 +10,6 @@ sdkInfo:
 versionInfo:
   versionCode: '33'
   versionName: '3.0'
-sharedLibrary: true
+sharedLibrary: false
 doNotCompress:
 - apk
